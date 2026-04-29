@@ -10,6 +10,7 @@ const requiredFiles = [
   "script.js",
   "README.md",
   ".nojekyll",
+  ".github/workflows/pages.yml",
   "assets/treelearn-dialog-state.png",
   "assets/treelearn-preview-state.png",
 ];
