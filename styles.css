@@ -496,7 +496,7 @@ button {
 .floating-dialog {
   position: absolute;
   right: 226px;
-  bottom: 62px;
+  top: 260px;
   width: 398px;
   padding: 14px 14px 17px;
   transition: opacity 180ms ease, transform 180ms ease;
